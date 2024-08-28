@@ -1,0 +1,3172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<run>
+	<id>R7</id>
+	<name>Test Run 8/28/2024 - Taptop</name>
+	<description></description>
+	<config></config>
+	<createdon>2024-08-28T13:28:49Z</createdon>
+		<completed>true</completed>
+	<completedon>2024-08-28T16:53:02Z</completedon>
+		<milestone></milestone>
+	<stats>
+										<passed>
+			<percent>42</percent>
+			<count>30</count>
+		</passed>
+											<blocked>
+			<percent>0</percent>
+			<count>0</count>
+		</blocked>
+											<untested>
+			<percent>0</percent>
+			<count>0</count>
+		</untested>
+											<retest>
+			<percent>0</percent>
+			<count>0</count>
+		</retest>
+											<failed>
+			<percent>58</percent>
+			<count>41</count>
+		</failed>
+																																																				</stats>	<sections>
+		<section>
+		<name>Windows 11</name>
+		<description>Тестирование на десктопе, винда 11, Firefox версия ...</description>
+										<sections>
+		<section>
+		<name>Обязательность заполения полей</name>
+		<description>Иван Иванович Петров
+ivan.petrov@example.com
++7 (495) 123-45-67
+Здравствуйте! Я хотел бы узнать подробнее о вашем продукте. Пожалуйста, свяжитесь со мной по указанному телефону или электронной почте. Спасибо!
+
+Прошел: отправлено с комментарием, не отправлено с комментарием. Упал: отправлено без заполнения комментария.</description>
+						<tests>
+						            																																																			<test>
+				<id>T44</id>
+				<title>Нажать Отправить, заполнив все поля</title>
+												<template>Test Case (Text)</template>
+																<type>Functional</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C69</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>442</elapsed>
+																																																						<changes>
+															<change>
+						<createdon>2024-08-28T14:08:48Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Passed</status>
+																								<assignedto>Julia Zakharova</assignedto>
+																		<comment></comment>
+																		<version></version>
+																														<elapsed>442</elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:49Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T45</id>
+				<title>Нажать Отправить с пустым полем Имя</title>
+												<template>Test Case (Text)</template>
+																<type>Functional</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C70</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>270</elapsed>
+																																																						<changes>
+															<change>
+						<createdon>2024-08-28T14:17:47Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment>Отправлен</comment>
+																		<version></version>
+																														<elapsed>270</elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:49Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T46</id>
+				<title>Нажать Отправить с пустым полем E-mail</title>
+												<template>Test Case (Text)</template>
+																<type>Functional</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C71</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>41</elapsed>
+																																																						<changes>
+															<change>
+						<createdon>2024-08-28T14:18:41Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed>41</elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:49Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T47</id>
+				<title>Нажать Отправить с пустым полем Телефон</title>
+												<template>Test Case (Text)</template>
+																<type>Functional</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C72</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>29</elapsed>
+																																																						<changes>
+															<change>
+						<createdon>2024-08-28T14:19:22Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed>29</elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:49Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T48</id>
+				<title>Нажать Отправить, заполнив только поле Комментарий</title>
+												<template>Test Case (Text)</template>
+																<type>Functional</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C73</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>26</elapsed>
+																																																						<changes>
+															<change>
+						<createdon>2024-08-28T14:20:00Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed>26</elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:49Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																																																	<test>
+				<id>T49</id>
+				<title>Нажать Отправить, не заполнив только поле Комметарий</title>
+												<template>Test Case (Text)</template>
+																<type>Functional</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C74</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>38</elapsed>
+																																																						<changes>
+															<change>
+						<createdon>2024-08-28T14:36:13Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment>Форма не отправлена, тк Коммент не заполнен</comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T14:22:48Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Поле Комментарий пустое</comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T14:21:11Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment>Не отправилось, т.к. поле Комментарий обязательное для заполнения.</comment>
+																		<version></version>
+																														<elapsed>38</elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:49Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T50</id>
+				<title>Нажать Отправить, заполнив только поле Телефон</title>
+												<template>Test Case (Text)</template>
+																<type>Functional</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C75</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>1005</elapsed>
+																																																						<changes>
+															<change>
+						<createdon>2024-08-28T14:38:05Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment>Коммент не заполнен</comment>
+																		<version></version>
+																														<elapsed>1005</elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:49Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T51</id>
+				<title>Нажать Отправить, заполнив только поле E-mail</title>
+												<template>Test Case (Text)</template>
+																<type>Functional</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C76</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>20</elapsed>
+																																																						<changes>
+															<change>
+						<createdon>2024-08-28T14:40:05Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment>Коммент не заполнен, не отправилось</comment>
+																		<version></version>
+																														<elapsed>20</elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:49Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T52</id>
+				<title>Нажать Отправить, заполнив только поле Имя</title>
+												<template>Test Case (Text)</template>
+																<type>Functional</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C77</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>15</elapsed>
+																																																						<changes>
+															<change>
+						<createdon>2024-08-28T14:40:47Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment>Коммент не  заполнен, не отправилось</comment>
+																		<version></version>
+																														<elapsed>15</elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:49Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T53</id>
+				<title>Нажать Отправить с пустыми полями</title>
+												<template>Test Case (Text)</template>
+																<type>Functional</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C78</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>12</elapsed>
+																																																						<changes>
+															<change>
+						<createdon>2024-08-28T14:41:10Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment>Коммент не заполнен, не отправилось</comment>
+																		<version></version>
+																														<elapsed>12</elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:49Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+								</tests>
+							</section>
+		<section>
+		<name>Поле Имя</name>
+		<description>Проверяем только поле Имя</description>
+										<sections>
+		<section>
+		<name>Длины ввода</name>
+		<description>Проверка длины ввода</description>
+						<tests>
+						            																																																			<test>
+				<id>T54</id>
+				<title>Ввести 100 символов</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+																													<preconds>
+								<![CDATA[ JohnJacobJingleheimerSchmidt12345678901234567890123456789012345678901234567890]]>
+							</preconds>
+																													<expected>Вводит и скрывает остальной текст более 30 символов</expected>
+															</custom>
+												<caseid>C80</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>307</elapsed>
+																																																						<changes>
+															<change>
+						<createdon>2024-08-28T14:51:15Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed>307</elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:49Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																				<test>
+				<id>T111</id>
+				<title>Ввести 99 символов</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C143</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>12</elapsed>
+																																																						<changes>
+															<change>
+						<createdon>2024-08-28T14:56:39Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment>корректно введено</comment>
+																		<version></version>
+																														<elapsed>12</elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																				<test>
+				<id>T112</id>
+				<title>Ввести 101 символ</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C144</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>27</elapsed>
+																																														<defects>Баг-1</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T14:57:33Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Поле позволяет вводить более 100 символов</comment>
+																		<version></version>
+																														<elapsed>27</elapsed>
+																														<defects>Баг-1</defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T55</id>
+				<title>Проверить пустое значение поля (скопировать)</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C83</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>150</elapsed>
+																																																						<changes>
+															<change>
+						<createdon>2024-08-28T15:00:34Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment>Ничего не копируется. Скрытых символов нет</comment>
+																		<version></version>
+																														<elapsed>150</elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:49Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T63</id>
+				<title>Проверить пустое значение поля в коде</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C91</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>114</elapsed>
+																																																						<changes>
+															<change>
+						<createdon>2024-08-28T15:02:51Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment>![](index.php?/attachments/get/3532e955-ee67-49eb-9046-fb5b4be9b836)</comment>
+																		<version></version>
+																														<elapsed>114</elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:49Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+								</tests>
+							</section>
+		<section>
+		<name>Текстовое значение ввода</name>
+		<description>Валидация букв, цифр и спецсимволов</description>
+						<tests>
+						            																																																			<test>
+				<id>T56</id>
+				<title>Ввести ф_ф</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C84</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																																																														<defects>Баг-2</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T15:04:44Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Нет валидации формата ввода. Принимает нелогичные данные за имя. Нет подсказки ввести валидные данные</comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects>Баг-2</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:49Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T57</id>
+				<title>Ввести ф1ф</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C85</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																																																														<defects>Баг-3</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T15:06:40Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Нет валидации формата ввода. Нет подсказок какого формата вводить имя</comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects>Баг-3</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:49Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T58</id>
+				<title>Ввести ___</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C86</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																																																														<defects>Баг-4</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T15:07:51Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Спецсимволы валидирует как имя. Нет подсказок ожидаемого ввода данных</comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects>Баг-4</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:49Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T59</id>
+				<title>Ввести ф ф (&quot;ф пробел ф&quot;)</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C87</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																																																														<defects>Баг-5</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T15:12:10Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Нет валидации данных. Нет подсказки как вводить имя</comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects>Баг-5</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:49Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T60</id>
+				<title>Ввести 111</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C88</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																																																														<defects>Баг-6</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T15:13:08Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Имя из цифр валидирует верным. Должна быть подсказка что неверный формат имени</comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects>Баг-6</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:49Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T61</id>
+				<title>Ввести символ юникода U+2661 (&quot;контур сердечка&quot;)</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C89</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																																																														<defects>Баг-7</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T15:14:09Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Символ юникод валидируется как верный формат. Нет подсказки ввести верный формат имени</comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects>Баг-7</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:49Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T62</id>
+				<title>Ввести ф+юникод  (&quot; буква ф и без пробела смайлик контур сердечка&quot;)</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C90</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																																																														<defects>Баг-8</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T15:15:39Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Буква+смайлик валидируется как имя. Нет подсказки введите верный формат имени</comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects>Баг-8</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:49Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T64</id>
+				<title>Ввести код //*[@id=&quot;d[1]&quot;]</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C92</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																																																														<defects>Баг-9</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T15:16:39Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Код //*[@id=&quot;d[1]&quot;]  валидирует как имя. Нет подсказки введите верный формат имени</comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects>Баг-9</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:49Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T66</id>
+				<title>Ввести fff</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C95</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																																																														<defects>Баг-10</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T15:17:42Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Три повторяющиеся латинские буквы валидирует как имя. Нет подсказки введите верный формат имени</comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects>Баг-10</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:49Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+								</tests>
+							</section>
+		<section>
+		<name>Визульный размер поля</name>
+		<description>Проверка удобства поля для ввода символов, видимость первых 30 символов</description>
+						<tests>
+						            																																																			<test>
+				<id>T65</id>
+				<title>Ввести 30 символов</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+																													<preconds>
+								<![CDATA[ JohnJacobJingleheimerSchmidt123456]]>
+							</preconds>
+																													<expected>Поле должно отобразить все введенные 30 символов</expected>
+															</custom>
+												<caseid>C93</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>20</elapsed>
+																																																						<changes>
+															<change>
+						<createdon>2024-08-28T15:20:15Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment>Корректно отображает 30 символов</comment>
+																		<version></version>
+																														<elapsed>20</elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:49Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																				<test>
+				<id>T113</id>
+				<title>Ввести 29 символов</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+																													<preconds>
+								<![CDATA[ JohnJacobJingleheimerSchmidt12345]]>
+							</preconds>
+															</custom>
+												<caseid>C145</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>13</elapsed>
+																																																						<changes>
+															<change>
+						<createdon>2024-08-28T15:21:01Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment>Корректно отображает</comment>
+																		<version></version>
+																														<elapsed>13</elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																				<test>
+				<id>T114</id>
+				<title>Ввести 31 символ</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+																													<preconds>
+								<![CDATA[ JohnJacobJingleheimerSchmidt1234567]]>
+							</preconds>
+															</custom>
+												<caseid>C146</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>59</elapsed>
+																																														<defects>Баг-11</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T15:22:39Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Отображает 31 символ. Должно было спрятать первую букву.</comment>
+																		<version></version>
+																														<elapsed>59</elapsed>
+																														<defects>Баг-11</defects>
+																													</change>
+									</changes>
+			</test>
+								</tests>
+							</section>
+</sections>
+			</section>
+		<section>
+		<name>Поле E-mail</name>
+		<description>Проверяем только поле E-mail</description>
+										<sections>
+		<section>
+		<name>Длина ввода</name>
+		<description>Проверка имейла на допустимые 100 символов ввода</description>
+						<tests>
+						            																																																			<test>
+				<id>T67</id>
+				<title>Ввести имейл из 99 символов</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+																													<preconds>
+								<![CDATA[ longusernamepartthatkeepsgoingandgoinganddoesntseemtostopuntilitreachestheninetyninechar@example.com]]>
+							</preconds>
+															</custom>
+												<caseid>C96</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>108</elapsed>
+																																																						<changes>
+															<change>
+						<createdon>2024-08-28T15:26:14Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment>Корректно отображает имейл</comment>
+																		<version></version>
+																														<elapsed>108</elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:49Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T68</id>
+				<title>Ввести имейл из 100 символов</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+																													<preconds>
+								<![CDATA[ longusernamepartthatgoesonandontofilltheentirehundredcharacterslimitwithoutbeingtooshort@example.com]]>
+							</preconds>
+															</custom>
+												<caseid>C97</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>19</elapsed>
+																																																						<changes>
+															<change>
+						<createdon>2024-08-28T15:27:58Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment>Корректно отображает, символы не съедаются</comment>
+																		<version></version>
+																														<elapsed>19</elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:49Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T69</id>
+				<title>Ввести имейл из 101 символа</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+																													<preconds>
+								<![CDATA[ longusernamepartthatgoesonandontofilltheentirehundredandonecharacterslimitwithoutbeingtooshort@example.com]]>
+							</preconds>
+															</custom>
+												<caseid>C98</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>98</elapsed>
+																																																						<changes>
+															<change>
+						<createdon>2024-08-28T15:30:09Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment>Обрезало имейл на 6 символов до longusernamepartthatgoesonandontofilltheentirehundredandonecharacterslimitwithoutbeingtooshort@examp</comment>
+																		<version></version>
+																														<elapsed>98</elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:49Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T70</id>
+				<title>Ввести имейл из 1 символа</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+																													<preconds>
+								<![CDATA[ a@b.co]]>
+							</preconds>
+															</custom>
+												<caseid>C99</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>54</elapsed>
+																																														<defects>Баг-12</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T15:31:43Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Имейл в 1 символ валидирует верным. Нет подсказки ввести верный формат данных</comment>
+																		<version></version>
+																														<elapsed>54</elapsed>
+																														<defects>Баг-12</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:49Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T71</id>
+				<title>Проверить пустое значение поля (скопировать)</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C100</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>25</elapsed>
+																																																						<changes>
+															<change>
+						<createdon>2024-08-28T15:32:47Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment>Ничего не копирует. Поле не содержит скрытых символов</comment>
+																		<version></version>
+																														<elapsed>25</elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:49Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T72</id>
+				<title>Проверить пустое значение поля в коде</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C101</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>47</elapsed>
+																																																						<changes>
+															<change>
+						<createdon>2024-08-28T15:33:44Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment>![](index.php?/attachments/get/c3059cee-9094-49de-9ed5-df4d7ba1ecf3)</comment>
+																		<version></version>
+																														<elapsed>47</elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:49Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+								</tests>
+							</section>
+		<section>
+		<name>Ввод формата имейла</name>
+		<description>Проверка, что введен верный формат имейла</description>
+						<tests>
+						            																																																			<test>
+				<id>T73</id>
+				<title>Ввести валидный имейл abra@kadabra.com</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C102</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>3</elapsed>
+																																																						<changes>
+															<change>
+						<createdon>2024-08-28T15:44:36Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed>3</elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:49Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T74</id>
+				<title>Ввести невалидный имейл abra@kadabracom</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C103</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>80</elapsed>
+																																														<defects>Баг-13</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T15:46:10Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Имейл валидируется как верный. Нет проверки на доменность</comment>
+																		<version></version>
+																														<elapsed>80</elapsed>
+																														<defects>Баг-13</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:49Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T75</id>
+				<title>Ввести невалидный имейл abrakadabra.com</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C104</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>59</elapsed>
+																																														<defects>Баг-14</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T15:47:29Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Валидирует имейл ка кверный без спецсимвола @. Нет подсказки введите верный формат имейла</comment>
+																		<version></version>
+																														<elapsed>59</elapsed>
+																														<defects>Баг-14</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:50Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T76</id>
+				<title>Ввести невалидный имейл абра@kadabra.com</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C105</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>121</elapsed>
+																																														<defects>Баг-15</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T15:49:59Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Валидирует как верный. Нет подсказки введите верный формат имейла.</comment>
+																		<version></version>
+																														<elapsed>121</elapsed>
+																														<defects>Баг-15</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:50Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T77</id>
+				<title>Ввести невалидный имейл 111@kadabra.com</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C106</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>64</elapsed>
+																																														<defects>Баг-16</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T15:51:33Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Имейл валидирует как верный. Нет подсказки ввести верный/рекомендуемый формат имейла</comment>
+																		<version></version>
+																														<elapsed>64</elapsed>
+																														<defects>Баг-16</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:50Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T78</id>
+				<title>Ввести невалидный имейл 111@111.com</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C107</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>20</elapsed>
+																																														<defects>Баг-17</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T15:52:00Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Имейл валидирует как верный. Нет подсказки ввести верный/рекомендуемый формат имейла</comment>
+																		<version></version>
+																														<elapsed>20</elapsed>
+																														<defects>Баг-17</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:50Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T79</id>
+				<title>Ввести невалидный имейл ???@___.com</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C108</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>22</elapsed>
+																																														<defects>Баг-18</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T15:52:26Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Имейл валидирует как верный. Нет подсказки ввести верный/рекомендуемый формат имейла</comment>
+																		<version></version>
+																														<elapsed>22</elapsed>
+																														<defects>Баг-18</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:50Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T80</id>
+				<title>Ввести невалидный имейл 111</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C109</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>21</elapsed>
+																																														<defects>Баг-19</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T15:52:51Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Имейл валидирует как верный. Нет подсказки ввести верный/рекомендуемый формат имейла</comment>
+																		<version></version>
+																														<elapsed>21</elapsed>
+																														<defects>Баг-19</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:50Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T81</id>
+				<title>Ввести невалидный имейл ___</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C110</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>27</elapsed>
+																																														<defects>Баг-20</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T15:53:21Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Имейл валидирует как верный. Нет подсказки ввести верный/рекомендуемый формат имейла</comment>
+																		<version></version>
+																														<elapsed>27</elapsed>
+																														<defects>Баг-20</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:50Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T82</id>
+				<title>Ввести невалидный имейл юникод U+2661 (&quot;контур сердечка&quot;)</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C111</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																																																														<defects>Баг-21</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T15:53:49Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Имейл валидирует как верный. Нет подсказки ввести верный/рекомендуемый формат имейла</comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects>Баг-21</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:50Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T83</id>
+				<title>Ввести невалидный имейл //*[@id=&quot;d[1]&quot;]</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C112</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																																																														<defects>Баг-22</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T15:54:14Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Имейл валидирует как верный. Нет подсказки ввести верный/рекомендуемый формат имейла</comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects>Баг-22</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:50Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+								</tests>
+							</section>
+		<section>
+		<name>Визуальный размер поля</name>
+		<description>Проверка на видимость 30 символов в поле</description>
+						<tests>
+						            																																																			<test>
+				<id>T84</id>
+				<title>Ввести имейл длинной 30 символов, все символы видны</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+																													<preconds>
+								<![CDATA[ shortemail@exampledomain.com]]>
+							</preconds>
+															</custom>
+												<caseid>C113</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2024-08-28T16:02:08Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment>Корректно отображается</comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:50Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T85</id>
+				<title>Ввести имейл длинной 31 символ, первый символ должен быть &quot;съеден&quot;</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+																													<preconds>
+								<![CDATA[ a.bit.longer@exampledomain.com]]>
+							</preconds>
+															</custom>
+												<caseid>C114</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>53</elapsed>
+																																														<defects>Баг-23</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T16:03:29Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Отображается полностью. Хотя ограничение стоит в 30 символов</comment>
+																		<version></version>
+																														<elapsed>53</elapsed>
+																														<defects>Баг-23</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:50Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+								</tests>
+							</section>
+</sections>
+			</section>
+		<section>
+		<name>Поле Телефон</name>
+		<description>Проверяем только поле Телефон</description>
+										<sections>
+		<section>
+		<name>Длинна вода</name>
+		<description>Проверка допустимости 100 символов</description>
+						<tests>
+						            																																																			<test>
+				<id>T86</id>
+				<title>Ввести телефон из 100 символов</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+																													<preconds>
+								<![CDATA[ +1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890]]>
+							</preconds>
+															</custom>
+												<caseid>C116</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>57</elapsed>
+																																														<defects>Баг-24</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T16:05:28Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Обрезан один символ - последний 0. Но и это ошибка. Но телефонов в 100 символов не существует. Логично было бы ограничить в 15-20 символов.</comment>
+																		<version></version>
+																														<elapsed>57</elapsed>
+																														<defects>Баг-24</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:50Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T87</id>
+				<title>Проверить пустое значение поля (скопировать)</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C119</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>24</elapsed>
+																																																						<changes>
+															<change>
+						<createdon>2024-08-28T16:06:06Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment>Ничего не копируется</comment>
+																		<version></version>
+																														<elapsed>24</elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:50Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T88</id>
+				<title>Проверить пустое значение поля в коде</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C120</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>66</elapsed>
+																																																						<changes>
+															<change>
+						<createdon>2024-08-28T16:07:19Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment>![](index.php?/attachments/get/069ee16c-e539-4b69-8b9c-94ea5380a6ce)</comment>
+																		<version></version>
+																														<elapsed>66</elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:50Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+								</tests>
+							</section>
+		<section>
+		<name>Ввод формата телефона</name>
+		<description>Валидация формата ввода телефона</description>
+						<tests>
+						            																																																			<test>
+				<id>T89</id>
+				<title>Ввести телефон +9 999 99 99 99</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C121</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																																																														<defects>Баг-25</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T16:09:44Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Валидатор формата телефона не работает</comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects>Баг-25</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:50Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T90</id>
+				<title>Ввести телефон 9 999 99 99 99</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C122</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>60</elapsed>
+																																														<defects>Баг-26</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T16:11:22Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Валидатор формата телефона не работает</comment>
+																		<version></version>
+																														<elapsed>60</elapsed>
+																														<defects>Баг-26</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:50Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T91</id>
+				<title>Ввести телефон +99999999999</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C123</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>9</elapsed>
+																																														<defects>Баг-27</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T16:11:58Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Валидатор формата телефона не работает</comment>
+																		<version></version>
+																														<elapsed>9</elapsed>
+																														<defects>Баг-27</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:50Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T92</id>
+				<title>Ввести телефон 99999999999</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C124</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>3</elapsed>
+																																														<defects>Баг-28</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T16:12:18Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Валидатор формата телефона не работает</comment>
+																		<version></version>
+																														<elapsed>3</elapsed>
+																														<defects>Баг-28</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:50Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T99</id>
+				<title>Ввести телефон +9-999-99-99-999</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C131</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>6</elapsed>
+																																														<defects>Баг-29</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T16:12:29Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Валидатор формата телефона не работает</comment>
+																		<version></version>
+																														<elapsed>6</elapsed>
+																														<defects>Баг-29</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:50Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T93</id>
+				<title>Ввести телефон ффф</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C125</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>7</elapsed>
+																																														<defects>Баг-30</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T16:12:43Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Валидатор формата телефона не работает</comment>
+																		<version></version>
+																														<elapsed>7</elapsed>
+																														<defects>Баг-30</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:50Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T94</id>
+				<title>Ввести телефон 1</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C126</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>4</elapsed>
+																																														<defects>Баг-31</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T16:13:16Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Валидатор формата телефона не работает</comment>
+																		<version></version>
+																														<elapsed>4</elapsed>
+																														<defects>Баг-31</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:50Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T95</id>
+				<title>Ввести телефон fff</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C127</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>7</elapsed>
+																																														<defects>Баг-32</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T16:13:27Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Валидатор формата телефона не работает</comment>
+																		<version></version>
+																														<elapsed>7</elapsed>
+																														<defects>Баг-32</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:50Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T96</id>
+				<title>Ввести телефон ___</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C128</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>4</elapsed>
+																																														<defects>Баг-33</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T16:13:40Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Валидатор формата телефона не работает</comment>
+																		<version></version>
+																														<elapsed>4</elapsed>
+																														<defects>Баг-33</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:50Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T97</id>
+				<title>Ввести телефон смайлик U+2661 (&quot;контур сердечка&quot;)</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C129</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>6</elapsed>
+																																														<defects>Баг-34</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T16:13:50Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Валидатор формата телефона не работает</comment>
+																		<version></version>
+																														<elapsed>6</elapsed>
+																														<defects>Баг-34</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:50Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T98</id>
+				<title>Ввести телефон //*[@id=&quot;d[1]&quot;]</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C130</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>6</elapsed>
+																																														<defects>Баг-35</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T16:14:02Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Валидатор формата телефона не работает</comment>
+																		<version></version>
+																														<elapsed>6</elapsed>
+																														<defects>Баг-35</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:50Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+								</tests>
+							</section>
+		<section>
+		<name>Визуальный размер поля</name>
+		<description>Проверка видимости 30 символов в поле</description>
+						<tests>
+						            																																																			<test>
+				<id>T100</id>
+				<title>Ввести телефон из 30 символов</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+																													<preconds>
+								<![CDATA[ +123456789012345678901234567890]]>
+							</preconds>
+																													<expected>Поле должно отобразить все введенные 30 символов, но если поле предназначено для телефона, должно ограничить ввод до 15-20 символов. Если отображается более 20 символов, это может указывать на излишне широкое поле.</expected>
+															</custom>
+												<caseid>C132</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>80</elapsed>
+																																														<defects>Баг-36</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T16:15:48Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Корректно отображается. Но телефонов в 30 символов не существует. Логично было бы ограничить в 15-20 символов.</comment>
+																		<version></version>
+																														<elapsed>80</elapsed>
+																														<defects>Баг-36</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:28:50Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+								</tests>
+							</section>
+</sections>
+			</section>
+		<section>
+		<name>Поле Комментарий</name>
+		<description>Проверка только поля Комментарий</description>
+										<sections>
+		<section>
+		<name>Проверка обязательности заполнения</name>
+		<description></description>
+						<tests>
+						            																																																			<test>
+				<id>T101</id>
+				<title>Ввести 1 символ</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+																													<expected>Форма должна успешно отправиться, так как поле не пустое.</expected>
+															</custom>
+												<caseid>C133</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>3</elapsed>
+																																																						<changes>
+															<change>
+						<createdon>2024-08-28T16:21:09Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment>Поле заполнено. Форма отправлена.</comment>
+																		<version></version>
+																														<elapsed>3</elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:39:30Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+								</tests>
+							</section>
+		<section>
+		<name>Формат ввода</name>
+		<description></description>
+						<tests>
+						            																																																			<test>
+				<id>T102</id>
+				<title>Ввести текст без ограничения по длине (несколько тысяч символов)</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+																													<preconds>
+								<![CDATA[ Здравствуйте! Я хотел бы оставить очень подробный комментарий по поводу вашего продукта, который действительно произвел на меня впечатление. Я хочу подробно рассказать о всех аспектах, которые мне понравились, а также о тех, которые можно было бы улучшить.
+
+Первое, что хочется отметить, это интерфейс вашего продукта. Он невероятно удобный, интуитивно понятный и стильный. С первого взгляда становится понятно, где что находится, и как этим пользоваться. Для меня это очень важно, так как я ценю свое время и не люблю тратить его на изучение сложных систем. Ваш продукт позволил мне сэкономить множество часов, и я думаю, что это один из его главных плюсов.
+
+Кроме того, я хотел бы отметить работу вашего отдела поддержки клиентов. Каждый раз, когда у меня возникали вопросы или проблемы, я всегда мог рассчитывать на оперативную и качественную помощь. Ваши специалисты знают свое дело и всегда готовы помочь. Это не может не радовать, так как многие компании сейчас, к сожалению, экономят на поддержке, что приводит к негативным последствиям для пользователей.
+
+Теперь перейду к функциональности. Ваш продукт обладает широким набором возможностей, которые покрывают практически все мои потребности. Особенно мне нравится возможность интеграции с другими сервисами, что позволяет существенно расширить функционал и сделать работу с продуктом еще более удобной. Я уверен, что многие пользователи это оценят.
+
+Однако, как и любой продукт, ваш имеет некоторые недостатки, о которых я хотел бы упомянуть. Во-первых, я заметил, что иногда система работает с небольшими задержками, особенно когда обрабатывается большое количество данных. Это не критично, но всё же хотелось бы, чтобы работа была более плавной и быстрой. Возможно, это связано с техническими ограничениями, но надеюсь, что вы сможете найти решение этой проблемы.
+
+Во-вторых, я бы хотел предложить расширить возможности кастомизации интерфейса. Было бы здорово, если бы пользователи могли настроить внешний вид и расположение элементов по своему вкусу. Это добавит продукту гибкости и сделает его еще более удобным для различных категорий пользователей.
+
+Кроме того, было бы полезно улучшить систему отчетов. В текущей версии она вполне функциональна, но иногда не хватает более гибких настроек для вывода данных. Например, было бы хорошо добавить возможность выбирать более детализированные параметры отчетов и настраивать их отображение. Это позволило бы пользователям получать именно ту информацию, которая им нужна в данный момент, и повысило бы эффективность работы с продуктом.
+
+Также хотелось бы увидеть более глубокую интеграцию с другими популярными сервисами и приложениями. Я понимаю, что это требует значительных ресурсов, но такая возможность сделала бы ваш продукт еще более привлекательным на рынке. Многие пользователи оценили бы возможность интеграции, например, с облачными сервисами для хранения данных, что позволило бы им работать с продуктом в любом месте и в любое время.
+
+Наконец, хочу выразить благодарность за регулярные обновления, которые вы выпускаете. Это говорит о том, что вы не только создаете качественный продукт, но и постоянно работаете над его улучшением. Я вижу, что вы прислушиваетесь к мнению пользователей, и это очень важно. Надеюсь, что вы продолжите в том же духе, и ваш продукт станет еще лучше.
+
+В заключение хочу сказать, что ваш продукт оставил у меня положительные впечатления, и я готов рекомендовать его своим коллегам и друзьям. Я уверен, что при дальнейшем развитии и улучшении он станет лидером на рынке и привлечет еще больше пользователей.
+
+Желаю вам успехов в вашей работе и надеюсь, что мои предложения будут учтены. Спасибо за внимание и за ваш труд!
+
+Здравствуйте! Я хотел бы оставить очень подробный комментарий по поводу вашего продукта, который действительно произвел на меня впечатление. Я хочу подробно рассказать о всех аспектах, которые мне понравились, а также о тех, которые можно было бы улучшить.
+
+Первое, что хочется отметить, это интерфейс вашего продукта. Он невероятно удобный, интуитивно понятный и стильный. С первого взгляда становится понятно, где что находится, и как этим пользоваться. Для меня это очень важно, так как я ценю свое время и не люблю тратить его на изучение сложных систем. Ваш продукт позволил мне сэкономить множество часов, и я думаю, что это один из его главных плюсов.
+
+Кроме того, я хотел бы отметить работу вашего отдела поддержки клиентов. Каждый раз, когда у меня возникали вопросы или проблемы, я всегда мог рассчитывать на оперативную и качественную помощь. Ваши специалисты знают свое дело и всегда готовы помочь. Это не может не радовать, так как многие компании сейчас, к сожалению, экономят на поддержке, что приводит к негативным последствиям для пользователей.
+
+Теперь перейду к функциональности. Ваш продукт обладает широким набором возможностей, которые покрывают практически все мои потребности. Особенно мне нравится возможность интеграции с другими сервисами, что позволяет существенно расширить функционал и сделать работу с продуктом еще более удобной. Я уверен, что многие пользователи это оценят.
+
+Однако, как и любой продукт, ваш имеет некоторые недостатки, о которых я хотел бы упомянуть. Во-первых, я заметил, что иногда система работает с небольшими задержками, особенно когда обрабатывается большое количество данных. Это не критично, но всё же хотелось бы, чтобы работа была более плавной и быстрой. Возможно, это связано с техническими ограничениями, но надеюсь, что вы сможете найти решение этой проблемы.
+
+Во-вторых, я бы хотел предложить расширить возможности кастомизации интерфейса. Было бы здорово, если бы пользователи могли настроить внешний вид и расположение элементов по своему вкусу. Это добавит продукту гибкости и сделает его еще более удобным для различных категорий пользователей.
+
+Кроме того, было бы полезно улучшить систему отчетов. В текущей версии она вполне функциональна, но иногда не хватает более гибких настроек для вывода данных. Например, было бы хорошо добавить возможность выбирать более детализированные параметры отчетов и настраивать их отображение. Это позволило бы пользователям получать именно ту информацию, которая им нужна в данный момент, и повысило бы эффективность работы с продуктом.
+
+Также хотелось бы увидеть более глубокую интеграцию с другими популярными сервисами и приложениями. Я понимаю, что это требует значительных ресурсов, но такая возможность сделала бы ваш продукт еще более привлекательным на рынке. Многие пользователи оценили бы возможность интеграции, например, с облачными сервисами для хранения данных, что позволило бы им работать с продуктом в любом месте и в любое время.
+
+Наконец, хочу выразить благодарность за регулярные обновления, которые вы выпускаете. Это говорит о том, что вы не только создаете качественный продукт, но и постоянно работаете над его улучшением. 
+
+На этом, пожалуй, закончу свой комментарий. Благодарю вас за создание столь полезного и удобного продукта. Надеюсь, что мои предложения будут учтены, и в будущем продукт станет еще лучше. Желаю вам успехов в развитии и улучшении вашего проекта. Спасибо за внимание!]]>
+							</preconds>
+																													<expected>Поле должно принимать весь текст, так как ограничение по длине не установлено (если нет серверной валидации).</expected>
+															</custom>
+												<caseid>C134</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>70</elapsed>
+																																																						<changes>
+															<change>
+						<createdon>2024-08-28T16:37:56Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment>Поле принимает весь текст</comment>
+																		<version></version>
+																														<elapsed>70</elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:43:53Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T104</id>
+				<title>Ввести текст, содержащий специальные символы @#$%^&amp;*()</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+																													<preconds>
+								<![CDATA[ @#$%^&*()]]>
+							</preconds>
+																													<expected>Поле должно принимать любые символы без проблем.</expected>
+															</custom>
+												<caseid>C136</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>92</elapsed>
+																																														<defects>Баг-37</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T16:41:39Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Валидирует как верный формат. Нет подсказки ввести комментарий определенного вормата</comment>
+																		<version></version>
+																														<elapsed>92</elapsed>
+																														<defects>Баг-37</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:47:01Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T105</id>
+				<title>Ввести в поле  &lt;script&gt;alert(&apos;test&apos;);&lt;/script&gt;</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+																													<preconds>
+								<![CDATA[ <script>alert('test');</script>]]>
+							</preconds>
+																													<expected>Скрипт или HTML-код не должен исполняться при отображении, чтобы избежать XSS-атак.</expected>
+															</custom>
+												<caseid>C137</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>107</elapsed>
+																																														<defects>Баг-38</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T16:43:51Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Отправляет комментарий содержащий только скрипт. Это секьюрный баг</comment>
+																		<version></version>
+																														<elapsed>107</elapsed>
+																														<defects>Баг-38</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:47:38Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T106</id>
+				<title>Ввести текст 1111111111</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C138</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>43</elapsed>
+																																														<defects>Баг-39</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T16:44:53Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Комментарий из одних цифр валидирует как верный. Нет подсказки о формате ввода данных</comment>
+																		<version></version>
+																														<elapsed>43</elapsed>
+																														<defects>Баг-39</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:49:54Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T107</id>
+				<title>Ввести текст на арабском языке</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+																													<preconds>
+								<![CDATA[ مرحبا، أنا مهتم بمنتجكم وأرغب في معرفة المزيد عنه. أود أن أشارك بعض الملاحظات والاقتراحات الهامة لكم.]]>
+							</preconds>
+															</custom>
+												<caseid>C139</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>44</elapsed>
+																																														<defects>Баг-40</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T16:45:45Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Нет языковой валидации</comment>
+																		<version></version>
+																														<elapsed>44</elapsed>
+																														<defects>Баг-40</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:50:11Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+									            																																																			<test>
+				<id>T108</id>
+				<title>Ввести 5 пробелов и отправить форму</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+																													<expected>Валидация должна определить, что поле по-прежнему пустое (если проверка не ограничивается только наличием данных).</expected>
+															</custom>
+												<caseid>C140</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>43</elapsed>
+																																																						<changes>
+															<change>
+						<createdon>2024-08-28T16:46:52Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment>Определяет пустым ![](index.php?/attachments/get/b1c22b6a-c15d-41d3-93f9-ec79c4e017f2)</comment>
+																		<version></version>
+																														<elapsed>43</elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:50:30Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+								</tests>
+							</section>
+		<section>
+		<name>Визуальный размер поля</name>
+		<description></description>
+						<tests>
+						            																																																			<test>
+				<id>T103</id>
+				<title>Ввести длинный текст, превышающий 7 строк, должна появится полоса прокрутки</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C135</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																										<elapsed>38</elapsed>
+																																																						<changes>
+															<change>
+						<createdon>2024-08-28T16:47:47Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment>Появилась полоска прокрутки</comment>
+																		<version></version>
+																														<elapsed>38</elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:46:07Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+								</tests>
+							</section>
+</sections>
+			</section>
+</sections>
+			</section>
+		<section>
+		<name>iPhone8+</name>
+		<description>Тестирование формы на iOS, браузер Safari версия ...</description>
+						<tests>
+						            																																																			<test>
+				<id>T109</id>
+				<title>Страница с формой корректно открылась и работает</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C141</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Failed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																																																														<defects>Баг-41</defects>
+																<changes>
+															<change>
+						<createdon>2024-08-28T16:50:28Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Failed</status>
+												<assignedto></assignedto>
+												<comment>Не сверстано под мобильную версию. ![](index.php?/attachments/get/0f6e57e9-94c9-4e66-88ce-6f302fe1073d)</comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects>Баг-41</defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:52:29Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+								</tests>
+							</section>
+		<section>
+		<name>Tablet</name>
+		<description>Тестирование на планшете, диагональ ..., браузер Addbrouser версия ...</description>
+						<tests>
+						            																																																			<test>
+				<id>T110</id>
+				<title>Страница с формой корректно открылась и работает</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Medium</priority>
+																<estimate></estimate>
+																								<references></references>
+																				<custom>
+																							<automation_type><id>0</id><value> None</value></automation_type>
+															</custom>
+												<caseid>C142</caseid>
+																			<casestatus></casestatus>
+																<caseassignedto></caseassignedto>
+																	<status>Passed</status>
+																<assignedto>Julia Zakharova</assignedto>
+																<inprogress></inprogress>
+																																																																																						<changes>
+															<change>
+						<createdon>2024-08-28T16:52:52Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Passed</status>
+												<assignedto></assignedto>
+												<comment>Корректно открывается</comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+															<change>
+						<createdon>2024-08-28T13:52:51Z</createdon>
+																		<createdby>Julia Zakharova</createdby>
+												<status>Untested</status>
+												<assignedto></assignedto>
+												<comment></comment>
+																		<version></version>
+																														<elapsed></elapsed>
+																														<defects></defects>
+																													</change>
+									</changes>
+			</test>
+								</tests>
+							</section>
+</sections>
+</run>
